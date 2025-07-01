@@ -1,0 +1,16 @@
+Variable,Description,Scale
+support_avg,Avg. manager support,1–5 Likert
+micro_avg,Avg. micromanagement,1–5 Likert
+validation_avg,Avg. validation,1–5 Likert
+psych_safety_avg,Avg. psychological safety,1–5 Likert
+inclusion,Sense of belonging,1–5 Likert
+recognition,Perceived appreciation,1–5 Likert
+work_life_balance,Work-life balance satisfaction,1–5 Likert
+resources_tools,Access to tools/resources,1–5 Likert
+satisfaction,Job satisfaction,1–5 Likert
+burnout,Burnout,1–5 Likert
+intent_to_stay,Intent to stay,1–5 Likert
+commitment,Org. commitment,1–5 Likert
+self_rated_performance,Self-rated performance,1–5 Likert
+competence_confidence,Job confidence,1–5 Likert
+performance_score,0–100 performance score,0–100
